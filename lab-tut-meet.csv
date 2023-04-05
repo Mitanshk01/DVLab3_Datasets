@@ -1,4 +1,4 @@
-courseNumber,courseName,Day,startTime,Duration,isMeeting,isLab,isTutorial
+courseNumber,courseName,day,startTime,duration,isMeeting,isLab,isTutorial
 CS1.404,Optimization Methods,M,10:30,1,0,0,1
 CS7.505,Computer Vision,M,18:30,1,0,0,1
 CS1.502,"Information-Theoretic Methods in

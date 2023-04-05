@@ -22,49 +22,40 @@ Sciences-I",WS,11:40
 OC3.102,Value Education II ,TF,15:35
 CS8.301,Introduction to Information Security ,MT,15:35
 EC5.205,Introduction to Coding Theory ,MT,11:40
-CS1.305,"Introduction to Algorithms Engineering
-",WS,08:30
-CS9.312,"Introduction to Quantum Information
-and Computation ",TF,08:30
+CS1.305,"Introduction to Algorithms Engineering",WS,08:30
+CS9.312,"Introduction to Quantum Information and Computation",TF,08:30
 CS7.303,Digital Signal Analysis ,TF,10:00
 CS4.302,Data Visualisation ,MT,10:00
 CS9.311,Introduction to Brain and Cognition ,WS,11:40
 CS7.302,Computer Graphics ,WS,10:00
-CS3.307,"Performance Modeling of Computer
-Systems ",MT,10:00
+CS3.307,"Performance Modeling of Computer Systems",MT,10:00
 EC5.203,Communication Theory,MT,08:30
-EC2.204,Intro to Processor Architecture ,TS,11:40
-EC1.201,Intro to Bio Electronics ,TS,10:00
-EC5.204,Communicaton and Controls in IoT ,MT,11:40
-SC1.204,Thermodynamics ,TS,11:40
-SC1.205,Statistical Mechanics ,TS,10:00
-SC2.203,Biomolecular Structures ,MT,11:40
-SC2.202,Organic Chemistry ,MT,11:40
+EC2.204,Intro to Processor Architecture,TS,11:40
+EC1.201,Intro to Bio Electronics,TS,10:00
+EC5.204,Communicaton and Controls in IoT,MT,11:40
+SC1.204,Thermodynamics,TS,11:40
+SC1.205,Statistical Mechanics,TS,10:00
+SC2.203,Biomolecular Structures,MT,11:40
+SC2.202,Organic Chemistry,MT,11:40
 HS0.302,Research Methods in Human Sciences,MT,10:00
 HS7.301,"Science, Technology and Society",TS,11:40
-HS2.302,"Gender, Kinship, and State Law ",WS,11:40
-HS0.206,Thinking through moral problems ,TS,11:40
-HS0.208,"Questions of Crime and Punishment in
-Literature ",TS,11:40
-HS0.209,Exploring Masculinities ,TS,11:40
-HS0.210,"Literature and the Ethics of telling a Story
-",TS,11:40
-HS0.211,"Values, Ethics and AI ",TS,11:40
-HS0.207,"Science and Technology: Critical
-Perspectives ",TS,11:40
+HS2.302,"Gender, Kinship, and State Law",WS,11:40
+HS0.206,Thinking through moral problems,TS,11:40
+HS0.208,"Questions of Crime and Punishment in Literature",TS,11:40
+HS0.209,Exploring Masculinities,TS,11:40
+HS0.210,"Literature and the Ethics of telling a Story",TS,11:40
+HS0.211,"Values, Ethics and AI",TS,11:40
+HS0.207,"Science and Technology: Critical Perspectives",TS,11:40
 CS8.402,Information Security Audit and Assurance,MT,08:30
 SC3.303,Advanced Bioinformatics,TS,15:35
 SC2.301,Physics of Soft Condensed Matter,WS,10:00
-SC1.440,"Dynamical Processes in Complex
-Networks",MT,11:40
+SC1.440,"Dynamical Processes in Complex Networks",MT,11:40
 SC2.450,Non-equilibrium Statistical mechanics,WS,10:00
 CS9.435,Computational Social Science ,MT,08:30
-CL3.407,Neural Natural Language Generation ,TS,10:00
+CL3.407,Neural Natural Language Generation,TS,10:00
 CL5.401,Topics in SSMT,TS,14:00
-CL2.402,"Convergence & Divergence in Indian
-Languages",WS,11:40
-CL3.406,"Linguistic Data 3: Data Modelling in ILs
-",TS,10:00
+CL2.402,"Convergence & Divergence in Indian Languages",WS,11:40
+CL3.406,"Linguistic Data 3: Data Modelling in ILs",TS,10:00
 CS7.505,Computer Vision,TS,15:35
 EC5.402,Time Frequency Analysis,MT,14:00
 EC5.401,Topics in Signal Processing,TS,15:35
@@ -79,12 +70,11 @@ CE1.603,Advanced Structural Analysis,TS,11:40
 CE5.501,Design of Hydraulic Structures,WS,10:00
 CE1.602,Stability Design of Steel Structures,MT,10:00
 CE1.601,Earthquake Engineering,MT,14:00
-PD1.501,Human Computer Interaction ,WS,08:30
-PD1.502,Design of Wearable Systems ,WS,08:30
-CS5.402,"Usability of Software and Digital
-Products (H2)",MT,14:00
+PD1.501,Human Computer Interaction,WS,08:30
+PD1.502,Design of Wearable Systems,WS,08:30
+CS5.402,"Usability of Software and Digital Products",MT,14:00
 CS9.424,Technology Product Entrepreneurship,WS,10:00
-PD2.423,Organizational Operations ,WS,14:00
+PD2.423,Organizational Operations,WS,14:00
 PD2.501,Product Marketing,WS,14:00
 CS1.404,Optimization Methods,MT,08:30
 CS1.406,Advanced Algorithms,TS,15:35
@@ -99,43 +89,34 @@ CS8.403,System and Network Security,MT,08:30
 CS1.408,Introduction to Game Theory,TS,10:00
 CS3.404,Internals of Application Servers,MT,11:40
 CS9.432,Cognitive Science and AI,TS,15:35
-CS1.501,"Advanced Optimization: Theory and
-Applications",MT,17:10
+CS1.501,"Advanced Optimization: Theory and Applications",MT,17:10
 CS9.422,Behavioral Research: Statistical Methods,MT,14:00
-CS9.434,"Music, Mind, and Technology ",TS,10:00
-CE8.401,Disaster Management ,MT,10:00
-CS9.433,Hydro Informatics ,MT,10:00
-CS7.602,Topics in Deep Learning ,WS,08:30
+CS9.434,"Music, Mind, and Technology",TS,10:00
+CE8.401,Disaster Management,MT,10:00
+CS9.433,Hydro Informatics,MT,10:00
+CS7.602,Topics in Deep Learning,WS,08:30
 CS4.409,Data Foundation Systems,WS,11:40
-CS9.430,Cognitive Neuroscience ,TS,15:35
+CS9.430,Cognitive Neuroscience,TS,15:35
 CS7.603,Topics in Reinforcement Learning,TS,15:35
-CS5.401,"User Interaction and Usability of Digital
-Products ",MT,14:00
+CS5.401,"User Interaction and Usability of Digital Products",MT,14:00
 CS6.502,Topics in Software Foundations,MT,17:10
-MA4.303,"Linear Partial Differential Equations and
-Variational Calculus",TS,14:00
+MA4.303,"Linear Partial Differential Equations and Variational Calculus",TS,14:00
 CS7.508,Mathematics of Generative Models,MT,10:00
-CS1.502,"Information-Theoretic Methods in
-Computer Science",TS,14:00
-SC1.315,Nonlinear Dynamics ,TS,08:30
-SC1.420,Introduction to Particle Physics ,MT,11:40
-SC4.411,"Machine Learning for Natural Sciences
-",WS,10:00
-SC2.316,Molecular Modeling and Simulations ,MT,11:40
-SC1.415,Physics of The Early Universe ,TS,08:30
-SC1.440,"Dynamical Processes in Complex
-Networks",MT,11:40
-HS5.201,Growth and Development ,TS,17:10
+CS1.502,"Information-Theoretic Methods in Computer Science",TS,14:00
+SC1.315,Nonlinear Dynamics,TS,08:30
+SC1.420,Introduction to Particle Physics,MT,11:40
+SC4.411,"Machine Learning for Natural Sciences",WS,10:00
+SC2.316,Molecular Modeling and Simulations,MT,11:40
+SC1.415,Physics of The Early Universe,TS,08:30
+SC1.440,"Dynamical Processes in Complex Networks",MT,11:40
+HS5.201,Growth and Development,TS,17:10
 HS4.302,Internet and Democracy,MT,15:35
 HS0.204,Introduction to Philosophy of Technology,MT,15:35
-HS3.304,The Gutenberg Parenthesis ,MT,15:35
-HS3.305,"Migrants and Migrations in Modern South
-Asia ",TS,11:40
-HS1.302,"Readings in Russian Literature: The
-Nineteenth Century ",MT,15:35
-HS7.301,"Science, Technology and Society ",TS,11:40
-HS1.208,Introduction to Film ,TS,17:10
-HS0.213,Introduction to Existential Philosophy ,MT,15:35
-HS1.206,Comprehension of Indian Music ,TS,11:40
-HS0.212,"Philosophical Foundations of Knowledge
-",TS,17:10
+HS3.304,The Gutenberg Parenthesis,MT,15:35
+HS3.305,"Migrants and Migrations in Modern South Asia",TS,11:40
+HS1.302,"Readings in Russian Literature: The Nineteenth Century",MT,15:35
+HS7.301,"Science, Technology and Society",TS,11:40
+HS1.208,Introduction to Film,TS,17:10
+HS0.213,Introduction to Existential Philosophy,MT,15:35
+HS1.206,Comprehension of Indian Music,TS,11:40
+HS0.212,"Philosophical Foundations of Knowledge",TS,17:10

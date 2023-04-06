@@ -4,8 +4,8 @@ CS1.201,Data Structures and Algorithms,MT,11:40
 MA2.101,Linear Algebra,MT,08:30
 CS3.303,Introduction to IoT,MT,10:00
 SC4.102,Computing in Sciences II,MT,10:00
-SC1.102,Classical Mechanics ,TF,10:00
-SC1.101,Electrodynamics ,TF,10:00
+SC1.102,Classical Mechanics,TF,10:00
+SC1.101,Electrodynamics,TF,10:00
 SC2.101,General and Structural Chemistry,WS,11:40
 EC2.103,Analog Electronic Circuits,TF,10:00
 EC5.102,Information and Communication,TF,11:40
@@ -17,17 +17,16 @@ CS7.301,"Machine, Data and Learning",WS,08:30
 HS8.102,Intro to Human Sciences,TF,14:00
 SC1.111,Science II,MT,14:00
 HS8.101,Making of the Contemporary World,WS,10:00
-HS0.201,"Thinking and Knowing in the Human
-Sciences-I",WS,11:40
-OC3.102,Value Education II ,TF,15:35
-CS8.301,Introduction to Information Security ,MT,15:35
-EC5.205,Introduction to Coding Theory ,MT,11:40
+HS0.201,"Thinking and Knowing in the Human Sciences-I",WS,11:40
+OC3.102,Value Education II,TF,15:35
+CS8.301,Introduction to Information Security,MT,15:35
+EC5.205,Introduction to Coding Theory,MT,11:40
 CS1.305,"Introduction to Algorithms Engineering",WS,08:30
 CS9.312,"Introduction to Quantum Information and Computation",TF,08:30
-CS7.303,Digital Signal Analysis ,TF,10:00
-CS4.302,Data Visualisation ,MT,10:00
+CS7.303,Digital Signal Analysis,TF,10:00
+CS4.302,Data Visualisation,MT,10:00
 CS9.311,Introduction to Brain and Cognition ,WS,11:40
-CS7.302,Computer Graphics ,WS,10:00
+CS7.302,Computer Graphics,WS,10:00
 CS3.307,"Performance Modeling of Computer Systems",MT,10:00
 EC5.203,Communication Theory,MT,08:30
 EC2.204,Intro to Processor Architecture,TF,11:40

@@ -125,5 +125,5 @@ date,day,isTest,testName,isImportant,importance,isHoliday,holidayDescription,IsA
 05-05-2023,Friday,Yes,End Semesters,No,,No,,No,,No,
 05-06-2023,Saturday,No,,Yes,Paper Correction,No,,No,,No,
 05-07-2023,Sunday,No,,Yes,Paper Correction,Yes,Sunday,No,,No,
-05-08-2023,Monday,No,,Yes,Paper Correction,No,,No,,No,
-05-09-2023,Tuesday,No,,Yes,Start of summer vacation,No,,Yes,Course grades due,No,
+05-08-2023,Monday,No,,Yes,Paper Correction,Yes,Semester Over,No,,No,
+05-09-2023,Tuesday,No,,Yes,Start of summer vacation,Yes,Semester Over,Yes,Course grades due,No,

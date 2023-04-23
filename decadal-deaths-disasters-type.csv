@@ -1,4 +1,4 @@
-Entity,Code,Year,Total deaths - Fog (decadal),Total deaths - Glacial lake outburst (decadal),Total deaths - Wildfire (decadal),Total deaths - Dry mass movement (decadal),Total deaths - Landslide (decadal),Total deaths - Volcanic activity (decadal),Total deaths - Extreme temperature (decadal),Total deaths - Extreme weather (decadal),Total deaths - Earthquake (decadal),Total deaths - Flood (decadal),Total deaths - Drought (decadal)
+Entity,Code,Year,Fog,Glacial lake outburst,Wildfire,Dry mass movement,Landslide,Volcanic activity,Extreme temperature,Extreme weather,Earthquake,Flood,Drought
 Afghanistan,AFG,1900,0,0,0,0,0,0,0,0,0,0,0
 Afghanistan,AFG,1910,0,0,0,0,0,0,0,0,0,0,0
 Afghanistan,AFG,1920,0,0,0,0,0,0,0,0,0,0,0
